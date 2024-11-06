@@ -1,5 +1,4 @@
-version: "3"
-services:
+coservices:
   db:
     image: postgres:11-alpine
     environment:
